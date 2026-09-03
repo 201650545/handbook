@@ -1,0 +1,9 @@
+# handbook 无资产，兜底即可
+*.png
+*.jpg
+*.mp4
+*.zip
+*.log
+Thumbs.db
+.DS_Store
+.obsidian/
