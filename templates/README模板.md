@@ -22,7 +22,7 @@
 
 ## 依赖规范
 
-- handbook v1.0：https://github.com/201650545/handbook
+- handbook v1.1：https://github.com/201650545/handbook
 - 项目 override：docs/03-规格与规范.md
 
 ## 给 AI / Agent 的读取顺序
